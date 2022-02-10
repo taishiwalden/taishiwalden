@@ -1,4 +1,4 @@
-### Hi, I'm Taishi👋🏼
+### Hi, I'm Taishi 👋🏼
 
 <!--
 **taishiwalden/taishiwalden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
