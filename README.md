@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🧑‍💻 I’m currently working on my personal website
+- 🧑‍💻 I’m currently working on my [personal website](www.taishiwalden.com)
 - 🌱 I’m currently learning Swift, JavaScript, HTML, CSS
 - 🚀 I'm currently building [Visneto](https://visnetomedia.com/)
 <!--
