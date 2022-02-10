@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- I’m currently working on my [personal website](www.taishiwalden.com)
+- I’m currently working on my [personal website](https://taishiwalden.com/)
 - I’m currently learning Swift, JavaScript, HTML, CSS
 - I'm currently building [Visneto](https://visnetomedia.com/)
 <!--
