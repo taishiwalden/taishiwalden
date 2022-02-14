@@ -8,8 +8,10 @@ Here are some ideas to get you started:
 - I’m currently working on my [personal website](https://taishiwalden.com/)
 - I’m currently learning Swift, JavaScript, HTML, CSS
 - I'm currently building [Visneto](https://visnetomedia.com/)
+
+
 ![swift-icon](https://user-images.githubusercontent.com/75241036/153850367-56098ce8-f857-4ff0-afef-9f5b782d5400.png)
-<img src="https://user-images.githubusercontent.com/75241036/153850367-56098ce8-f857-4ff0-afef-9f5b782d5400.pn" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/75241036/153850367-56098ce8-f857-4ff0-afef-9f5b782d5400.png" width="200" height="200"/>
 
 <!--
 - 👯 I’m looking to collaborate on ...
