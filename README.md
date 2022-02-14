@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - I’m currently working on my [personal website](https://taishiwalden.com/)
-- - I'm currently building [Visneto](https://visnetomedia.com/)
+- I'm currently building [Visneto](https://visnetomedia.com/)
 - I’m currently learning Swift, JavaScript, HTML, CSS, Python
 <p float="left">
   <img src="https://user-images.githubusercontent.com/75241036/153850367-56098ce8-f857-4ff0-afef-9f5b782d5400.png" width="50" height="50"/>
