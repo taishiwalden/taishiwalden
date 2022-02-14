@@ -16,6 +16,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/75241036/153851867-cd628ca2-fe3a-43ed-96a3-ab1c32a072f5.png" width="50" height="50"/>
 </p>
 <br>
+
 - I'm currently building [Visneto](https://visnetomedia.com/)
 
 <!--
