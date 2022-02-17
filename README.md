@@ -5,7 +5,7 @@ I'm currently:
 
 Here are some ideas to get you started:
 -->
-- Developing my [personal website](https://taishiwalden.com/)
+- Developing my [website](https://taishiwalden.com/)
 - Building [Visneto](https://visnetomedia.com/)
 - Learning Swift, JavaScript, HTML, CSS, Python
 <p float="left">
