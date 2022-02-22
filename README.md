@@ -1,10 +1,19 @@
 ### Hi, I'm Taishi 👋🏼
 I'm currently:
+
 <!--
 **taishiwalden/taishiwalden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
+
+<details>
+  <summary> What I'm currently working on </summary>
+  
+  - Developing V0.2 of my personal website
+  - Building
+  
+</details>  
+
+
 - Developing my [website](https://taishiwalden.com/)
 - Building [Visneto](https://visnetomedia.com/)
 - Learning Swift, JavaScript, HTML, CSS, Python
