@@ -13,9 +13,9 @@
 <details>
   <summary>💻 Currently developing...</summary>
   
-  - V0.2 of my [personal website](https://taishiwalden.com/)
+  - V0.2 of my [Website](https://taishiwalden.com/)
   - A web app for [Visneto](https://visnetomedia.com/)
-  - A PaaS [Mappa](https://mappa.news)
+  - A EdTech Platform [Mappa](https://mappa.news)
   
 </details>  
 
