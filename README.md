@@ -15,7 +15,7 @@
   
   - V0.2 of my [personal website](https://taishiwalden.com/)
   - A web app for [Visneto](https://visnetomedia.com/)
-  - An interactive map to explain the [Belt and Road Initiative](https://github.com/taishiwalden/belt-and-road-initiative)
+  - A PaaS [Mappa](https://mappa.news)
   
 </details>  
 
