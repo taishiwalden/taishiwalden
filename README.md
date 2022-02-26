@@ -15,7 +15,7 @@
   
   - V0.2 of my [Website](https://taishiwalden.com/)
   - A web app for [Visneto](https://visnetomedia.com/)
-  - A EdTech Platform [Mappa](https://mappa.news)
+  - A news site called [Mappa](https://mappa.news)
   
 </details>  
 
