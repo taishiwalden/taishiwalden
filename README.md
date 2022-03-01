@@ -32,5 +32,10 @@
   <img src="https://user-images.githubusercontent.com/75241036/155191631-fd7354ca-8f8c-4481-be46-8b4986190184.png" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/75241036/155192198-db41933a-f5fe-4f7f-aa66-b45848ab96f7.png" width="50" height="50"/>
 </p>
-
 </details>  
+
+##### 🎯 Goals for 2022:
+- [ ] Create a full stack web application
+- [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
+- [ ] Read 15 books
+- [ ] Become GCP Associate Cloud Engineer
