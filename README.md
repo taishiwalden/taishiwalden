@@ -21,7 +21,7 @@
 
 <details>
   <summary>🧠 Currently learning...</summary>
-  - Swift, JavaScript, HTML, CSS, Python, React, Node.js, AWS on [FreeCodeCamp](https://www.freecodecamp.org/taishi)
+  - Swift, JavaScript, HTML, CSS, Python, React, Node.js, AWS
 <p float="left">
   <img src="https://user-images.githubusercontent.com/75241036/153850367-56098ce8-f857-4ff0-afef-9f5b782d5400.png" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/75241036/153851252-c711d61d-d065-4c89-b99f-8a0ec9a259c2.png" width="50" height="50"/>
@@ -35,6 +35,7 @@
 </details>  
 
 ##### 🎯 Goals for 2022:
+- [ ] Complete 3 certifications on [FreeCodeCamp](https://www.freecodecamp.org/taishi)
 - [ ] Create a full stack web application
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
 - [ ] Read 12 books
