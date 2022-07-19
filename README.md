@@ -10,6 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <details>
   <summary>💻 Currently developing...</summary>
   
@@ -40,3 +41,4 @@
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
 - [ ] Read 12 books
 - [ ] Become [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+-->
