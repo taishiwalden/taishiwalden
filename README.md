@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <details>
   <summary>💻 Currently developing...</summary>
   
@@ -19,6 +19,7 @@
   - V1.0 of a news site called [Mappa](https://mappa.news)
   
 </details>  
+-->
 
 <details>
   <summary>🧠 Currently learning...</summary>
@@ -33,9 +34,12 @@
 </p>
 </details>  
 
+<!--
 ##### 🎯 Goals for 2022:
 - [ ] Complete 3 certifications on [FreeCodeCamp](https://www.freecodecamp.org/taishi)
 - [ ] Create a full stack web application
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
 - [ ] Read 12 books
 - [ ] Become [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+
+-->
