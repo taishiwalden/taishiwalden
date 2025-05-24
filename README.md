@@ -10,19 +10,18 @@
 - ⚡ Fun fact: ...
 -->
 
-<!--
 <details>
   <summary>💻 Currently developing...</summary>
   
-  - V2.0 of my [Website](https://taishiwalden.com/)
-  - A web app for [Visneto](https://visnetomedia.com/)
-  - V1.0 of a news site called [Mappa](https://mappa.news)
+  - Maintaining my personal [website](https://taishiwalden.com/)
+  - A web app for finding nightlife in Seattle:[Visneto](https://visneto.netlify.app/)
+  - V1.0 of a news site called [Mappa](https://mappanews.netlify.app/)
+  - A simple tongue twister card game: [Tongue Twista](https://tonguetwista.netlify.app/)
   
 </details>  
--->
 
 <details>
-  <summary>I started building websites after completing a few front-end certifications on [FreeCode Camp](https://www.freecodecamp.org/taishi).</summary>
+  <summary>🧠 Trying to learn...</summary>
   <br>
   - JavaScript, Python, React, SQL<!--Node.js, AWS, Swift, Dart-->
   <br>
@@ -38,11 +37,19 @@
 </details>  
 
 <!--
-##### 🎯 Goals for 2022:
+##### 🎯 Goals for 2025:
 - [ ] Complete 3 certifications on [FreeCodeCamp](https://www.freecodecamp.org/taishi)
-- [ ] Create a full stack web application
+- [ ] Create a full-stack web application
 - [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
 - [ ] Read 12 books
 - [ ] Become [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
+-->
 
+<!--
+##### 🎯 Goals for 2022:
+- [ ] Complete 3 certifications on [FreeCodeCamp](https://www.freecodecamp.org/taishi)
+- [ ] Create a full-stack web application
+- [ ] Complete the N4 [JLPT Exam](https://www.jlpt.jp/e/certificate/)
+- [ ] Read 12 books
+- [ ] Become [GCP Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer)
 -->
