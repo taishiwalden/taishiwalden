@@ -22,7 +22,7 @@
 -->
 
 <details>
-  <summary>🧠 I'm actively learning...</summary>
+  <summary>I started building websites after completing a few front-end certifications on [FreeCode Camp](https://www.freecodecamp.org/taishi).</summary>
   <br>
   - JavaScript, Python, React, SQL<!--Node.js, AWS, Swift, Dart-->
   <br>
